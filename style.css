@@ -1,0 +1,22 @@
+body {font-family: "open sans"; background-color: white; padding: 06px;}
+.heroimage {width: 100%; height: 600px; object-fit: cover; object-position: center;}
+.butterfly {width: 100%; height: 950px; object-fit: cover; object-position: center;}
+.quote {background-color: #FEEEFF; color: #A02BA4;}
+.paragraph {color: #A02BA4; font-size: 20px; text-align: left; margin: 32px;}
+.header {color: #A02BA4; font-size: 36px; text-align: left; margin: 32px;}
+.quotetype {color:#A02BA4; font-size: 96px; text-align: center; margin: 32px;}
+.paula {color:#A02BA4; font-size: 50px; text-align: center; margin: 32px;}
+.purpleheader {background-color: #A02BA4; color: white;}
+.whitebody {background-color: white; color: #A02BA4;}
+.getstarted {color:white; background-color: #A02BA4; font-size: 50px; text-align: center; width: 350px; border-radius: 3px; margin: 10px 1300px 50px 1300px; padding:10px 20px; }
+.getstarted:hover {cursor: pointer; background-color: #fb356a;}
+.getstarted:active {cursor: pointer; background-color: #FB9A70;}
+a {text-decoration: none; color: inherit;}
+.links {color:white; background-color:#A02BA4; font-size: 24px; text-align: right; padding: 8px 16px; border-radius: 4px; margin: 32px;}
+.links:hover {cursor: pointer; background-color: #fb356a;}
+.links:active {cursor: pointer; background-color: #FB9A70;}
+.logo {color:white; background-color:#A02BA4; font-size: 24px; text-align: left; padding: 8px 16px; border-radius: 4px; margin: 32px;}
+.logo:hover {cursor: pointer; background-color: #fb356a;}
+.logo:active {cursor: pointer; background-color: #FB9A70;}
+.copyright {color:white; font-size: 12px; text-align: left; padding: 8px 16px; border-radius: 4px; margin: 32px; }
+.me {width: 30%; object-fit: cover; object-position: center;  margin: 20px 1000px 20px 1000px; padding:10px 20px; }}
